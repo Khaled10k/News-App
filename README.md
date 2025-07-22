@@ -34,5 +34,5 @@ It features a clean user interface, category filtering, and is built with scalab
 
 ### Prerequisites
 
-- Flutter SDK (latest stable)
-- News API key (e.g., from [newsapi.org](https://newsapi.org))
+-- Flutter SDK (latest stable)
+-- News API key (e.g., from [newsapi.org](https://newsapi.org))
