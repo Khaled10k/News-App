@@ -1,0 +1,10 @@
+# Force GitHub to ignore platform native code
+linux/** linguist-vendored
+windows/** linguist-vendored
+macos/** linguist-vendored
+ios/** linguist-vendored
+android/** linguist-vendored
+web/** linguist-vendored
+
+# Treat Dart as the main language
+lib/** linguist-detectable=true
